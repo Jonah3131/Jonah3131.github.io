@@ -1,0 +1,29 @@
+body {
+	background-image: url("http://theambitworks.com/wp-content/uploads/2017/02/image_blog_2_2_02-1080x675.jpg");
+	background-size: 100%;
+}
+
+.header1 {
+	font-size: 250%;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 15%;
+	font-family: 'Merienda', cursive;
+	color: white;
+}
+
+.btn{
+
+	position: center;
+	margin-left: 45%;
+	margin-top: 8%;
+	width: 10%;
+	height: 50%;
+}
+
+.navbar{
+	background-color: #691E1E;
+	font-weight: bold;
+	color: white;
+	font-size: 100%;
+}
